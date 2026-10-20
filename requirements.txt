@@ -1,0 +1,3 @@
+# Doplnte dalsi pouzite knihovny vcetne verzi.
+numpy==2.4.0
+pandas==2.2.3
